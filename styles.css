@@ -1,0 +1,13 @@
+* {
+    font-family: "Tahoma", "Arial", sans-serif;
+}
+
+body {
+    background-color: rgb(26, 92, 92);
+}
+
+li {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: green;
+}
